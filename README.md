@@ -1,6 +1,6 @@
 ## Intro/Objectives: Introductory Project to Hackathon from IT&Decathlon 2022
 
-Project to get access to the Hackathon organised by the IT-Academy and Decathlon. At the botton of this readme you can find the [initial information](##Initial_Info) shared throuhg the Nuwe platform[bottom]. [Train data set](https://github.com/MarkusHumetus/Access_Project_Hackathon_IT_Decathlon/blob/main/Initial%20Docs/train.csv) and [Test data set](https://github.com/MarkusHumetus/Access_Project_Hackathon_IT_Decathlon/blob/main/Initial%20Docs/test.csv) without the diagnosis/label column are in the initial Docs folder in this repository. 
+Project to get access to the Hackathon organised by the IT-Academy and Decathlon. At the botton of this readme you can find the [initial information](##Initial-Info) shared throuhg the Nuwe platform[bottom]. [Train data set](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/tree/main/Initial%20Docs) and [Test data set](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/blob/main/Initial%20Docs/test.csv) without the diagnosis/label column are in the initial Docs folder in this repository. 
     
 ## Methodology
 
@@ -20,8 +20,8 @@ Project to get access to the Hackathon organised by the IT-Academy and Decathlon
 
 ## Getting Started
 
-1. Clone this [repo](https://github.com/MarkusHumetus/Access_Project_Hackathon_IT_Decathlon) (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Use [requirements.txt](https://github.com/MarkusHumetus/Access_Project_Hackathon_IT_Decathlon/blob/main/requirements.txt) to install all required dependencies. Please note that Pycaret 2.3.0 only works properly under Python 3.6-3.8
+1. Clone this [repo](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon) (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Use [requirements.txt](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/blob/main/requirements.txt) to install all required dependencies. Please note that Pycaret 2.3.0 only works properly under Python 3.6-3.8
 
 ## Project Status
 
@@ -29,10 +29,10 @@ Project to get access to the Hackathon organised by the IT-Academy and Decathlon
 
 Project was completed and submitted for competition in 22nd of July 2022.
 Files generated in the repository:
-- [Jupyter Noebook](https://github.com/MarkusHumetus/Access_Project_Hackathon_IT_Decathlon/blob/main/main.ipynb)
+- [Jupyter Noebook](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/blob/main/main.ipynb)
 
-- [predictions.csv](https://github.com/MarkusHumetus/Access_Project_Hackathon_IT_Decathlon/blob/main/predictions.csv)
-- [requirements.txt](https://github.com/MarkusHumetus/Access_Project_Hackathon_IT_Decathlon/blob/main/requirements.txt)
+- [predictions.csv](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/blob/main/predictions.csv)
+- [requirements.txt](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/blob/main/requirements.txt)
 
 ## Contact
 
@@ -85,6 +85,6 @@ Thanks to the following organisations for the set up of such event which give th
 
 ![Decathlon](https://www.montluconvolley.com/wp-content/uploads/2015/07/logo_decathlon-1.png)
 
-![IT_Academy](https://itacademy.barcelonactiva.cat/pluginfile.php/1/theme_remui/logo/1658314293/logo.png)
+![ITA_Academy](https://itacademy.barcelonactiva.cat/pluginfile.php/1/theme_remui/logo/1658314293/logo.png)
 
 ![Nuwe](https://elreferente.es/wp-content/uploads/2021/12/LOGO_LETTERS_MONO-3.png)
