@@ -1,6 +1,6 @@
 ## Intro/Objectives: Introductory Project to Hackathon from IT&Decathlon 2022
 
-Project to get access to the Hackathon organised by the IT-Academy and Decathlon. At the botton of this readme you can find the [initial information](##Initial-Info) shared throuhg the Nuwe platform[bottom]. [Train data set](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/tree/main/Initial%20Docs) and [Test data set](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/blob/main/Initial%20Docs/test.csv) without the diagnosis/label column are in the initial Docs folder in this repository. 
+Project to get access to the Hackathon organised by the IT-Academy and Decathlon. At the botton of this readme you can find the [initial information](##Initial-Info) shared throuhg the Nuwe platform[bottom]. [Train data set](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/tree/main/Initial%20Docs) and [Test data set](https://github.com/MarkusHumetus/Access_Project_Hackathon_ITA_Decathlon/blob/main/Initial%20Docs/test.csv) without the diagnosis/label column are in the initial Docs folder in this repository.
     
 ## Methodology
 
