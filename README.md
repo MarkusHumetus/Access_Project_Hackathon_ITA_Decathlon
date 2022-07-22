@@ -1,5 +1,13 @@
 # Access_Project_Hackathon_IT_Decathlon
-Project to get access to the Hackathon organised by the IT-Academy and Decathlon
+Project to get access to the Hackathon organised by the IT-Academy and Decathlon. Ath the [bottom](## Initial Info) of this readme the
+
+
+
+
+
+
+
+## Initial Info
 
 🌌 Background
 El càncer de mama és el més comú entre les dones del món. Representa el 25% de tots els casos de càncer i va afectar més de 2,1 milions de persones només el 2015. Comença quan les cèl·lules de la mama comencen a créixer de manera descontrolada. Aquestes cèl·lules solen formar tumors que es poden veure mitjançant raigs X o sentir-se com embalums a la zona del pit.
@@ -26,7 +34,7 @@ Per a l'avaluació es tindrà en compte el següent:
 
 200/600: (DOCUMENTACIÓ) S'avaluarà la documentació entregada en la s'expliqui la solució que han fet servir per resoldre el problema i el perquè l'han escollit.
 
-## User stories / Objetivos
+## User stories / Objetius
 
 ✅ Task 1 → Comprendre el conjunt de dades i netejar-lo (si cal).
 
