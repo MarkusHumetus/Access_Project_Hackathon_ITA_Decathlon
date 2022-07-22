@@ -1,7 +1,7 @@
 ## Intro/Objectives: Introductory Project to Hackathon from IT&Decathlon 2022
 
 Project to get access to the Hackathon organised by the IT-Academy and Decathlon. At the botton of this readme you can find the [initial information](##Initial_Info) shared throuhg the Nuwe platform[bottom]. [Train data set](https://github.com/MarkusHumetus/Access_Project_Hackathon_IT_Decathlon/blob/main/Initial%20Docs/train.csv) and [Test data set](https://github.com/MarkusHumetus/Access_Project_Hackathon_IT_Decathlon/blob/main/Initial%20Docs/test.csv) without the diagnosis/label column are in the initial Docs folder in this repository. 
-
+    
 ## Methodology
 
 1. Inferential Statistics.
@@ -34,11 +34,15 @@ Files generated in the repository:
 - [predictions.csv](https://github.com/MarkusHumetus/Access_Project_Hackathon_IT_Decathlon/blob/main/predictions.csv)
 - [requirements.txt](https://github.com/MarkusHumetus/Access_Project_Hackathon_IT_Decathlon/blob/main/requirements.txt)
 
-
-
 ## Contact
 
-If you have any comment, doubt, proposal,... don't hesitate to contact me by email to marchumet@gmx.net
+If you have any comment, doubt, proposal,... don't hesitate to contact me by email to Marc.Humet.DataScience@gmail.com or by 
+ [![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[linkedin-url]: https://www.linkedin.com/in/marchumetmontada/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
 
 ## Initial Info
 
